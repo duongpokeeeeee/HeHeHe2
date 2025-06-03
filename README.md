@@ -1,8 +1,8 @@
-# myapp
+# DitMeThangGoogle
 
-A new Flutter project.
+Ban Tao Cai QUA^N' QUE^'
 
-## Getting Started
+## Dot Me Nha May Bay Gio
 
 This project is a starting point for a Flutter application.
 
